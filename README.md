@@ -46,3 +46,7 @@ The `scramble()` function:
 ```bash
 gcc scramble.c -o scramble
 ./scramble
+
+
+gcc scramble.c -o scramble.exe
+scramble.exe
