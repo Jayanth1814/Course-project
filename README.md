@@ -50,3 +50,12 @@ gcc scramble.c -o scramble
 
 gcc scramble.c -o scramble.exe
 scramble.exe
+
+********  WORD SCRAMBLE GAME  ********
+Unscramble the word: mreargop
+
+Enter your guess: program
+Correct! 🎉
+You guessed the word in 2 attempts.
+
+Thanks for playing!
