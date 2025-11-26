@@ -119,6 +119,18 @@ Efficient character swapping using Fisher–Yates shuffle
 
 
 ---
+## Compilation Requirements
+
+Must compile without errors
+
+Compatible with C89 / C99 / C11 standards
+
+Use a standard C compiler: GCC / Clang / MSVC / MinGW
+
+Recommended flags:
+-Wall (show all warnings)
+-Wextra (optional, stricter warnings)
+
 
 
 
