@@ -50,6 +50,7 @@ gcc scramble.c -o scramble
 
 gcc scramble.c -o scramble.exe
 scramble.exe
+```
 
 
 ## ** Screenshot **
