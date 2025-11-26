@@ -30,19 +30,44 @@ The implementation of a Word Scramble game can include features such as multiple
 
 ---
 
-## 📌 Code Overview
+## Functions Used in a Word Scramble Game 
 
-### **Scramble Function**
-The `scramble()` function:
-- Copies the original word  
-- Applies the Fisher–Yates shuffle  
-- Swaps letters randomly  
+1. load_words()
 
-### **Main Function**
-- Loads word list  
-- Picks random word  
-- Calls `scramble()`  
-- Loops until the user guesses correctly  
+Loads all words from a file or array.
+
+Stores them into a list for the game.
+
+
+2. choose_word()
+
+Randomly picks a word from the list of words.
+
+
+3. scramble_word()
+
+Takes a word and shuffles its characters.
+
+Returns a scrambled version of the word.
+
+
+4. play_game()
+
+Displays the scrambled word.
+
+Accepts user's guess.
+
+Checks if the guess is correct.
+
+Shows score or result.
+
+
+5. main()
+
+Calls all functions.
+
+Controls the overall flow of the program.
+ 
 
 ---
 
