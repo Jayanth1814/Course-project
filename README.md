@@ -30,7 +30,7 @@ The implementation of a Word Scramble game can include features such as multiple
 
 ---
 
-## 🔧 TECHNICAL REQUIREMENTS (Word Scramble Game)
+## 🔧 TECHNICAL REQUIREMENTS 
 
 
 ---
