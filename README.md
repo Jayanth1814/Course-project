@@ -119,7 +119,7 @@ Efficient character swapping using Fisher–Yates shuffle
 
 
 ---
-## Compilation Requirements
+## ⚙ Compilation Requirements
 
 Must compile without errors
 
