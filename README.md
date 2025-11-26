@@ -4,14 +4,14 @@ This is a simple **Word Scramble Game** written in **C**, where the player must 
 The game uses the **Fisher–Yates shuffle algorithm** to scramble the letters.
 
 ---
-## Abstract
+## 📄 ABSTRACT 
 
 A Word Scramble game is an interactive word-based puzzle in which the letters of a word are randomly rearranged, and the player must reorganize them to form the correct word. This type of game is designed to engage users in an enjoyable challenge that stimulates language comprehension and mental agility. By presenting scrambled words of varying lengths and complexities, the game encourages players to think critically and recognize familiar patterns in unfamiliar forms.
 
 In addition to providing entertainment, Word Scramble games serve as effective educational tools. They help improve vocabulary, spelling accuracy, and cognitive skills such as memory and problem-solving. Teachers and learners often use these games to reinforce language lessons in a fun, low-pressure format. Through repeated exposure to new words and rapid decision-making, players develop both linguistic knowledge and confidence.
 
 The implementation of a Word Scramble game can include features such as multiple difficulty levels, scoring systems, timed challenges, and hint options, all of which contribute to an engaging user experience. Whether developed as a mobile app, a web-based activity, or a classroom resource, the game offers flexibility and adaptability for diverse audiences. Overall, Word Scramble games combine learning and entertainment to provide a stimulating and rewarding experience for players of all ages.
-## ⭐ Features
+## ⭐ FEATURES
 - Random word selection  
 - Words scrambled using Fisher–Yates algorithm  
 - Unlimited guessing attempts  
