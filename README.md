@@ -71,20 +71,33 @@ Controls the overall flow of the program.
 
 ---
 
-## 🚀 How to Compile and Run
+## 🚀 How to run the program
 
 ### **Using GCC**
 ```bash
 gcc scramble.c -o scramble
 ./scramble
 ```
-### Run 
+### 2 Run 
 
 ** Windows **
 ```bash
 gcc scramble.c -o scramble.exe
 scramble.exe
 ```
+### 3 Data Files
+
+The program automatically creates words.txt on the first run (if it does not exist).
+
+All game words are loaded from this file before the game starts.
+
+You can edit words.txt to add or remove words.
+
+High-score or game history (if needed) can be stored in scores.txt.
+
+Exported scrambled words (optional feature) will appear in exported_words.txt.
+
+
 
 
 ## ** Screenshot **
