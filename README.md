@@ -112,6 +112,13 @@ String comparison & copying (strcmp, strcpy)
 No external files required
 
 All words stored in an internal array
+Uses random seed (time(NULL)) for shuffling
+
+Efficient character swapping using Fisher–Yates shuffle
+
+
+
+---
 
 
 
