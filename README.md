@@ -35,7 +35,7 @@ The implementation of a Word Scramble game can include features such as multiple
 
 ---
 
-💻 System Requirements
+## 💻 System Requirements
 
 Windows / Linux / macOS
 
@@ -51,7 +51,7 @@ Keyboard for user input
 
 ---
 
-🧰 Software Requirements
+## 🧰 Software Requirements
 
 C Compiler: GCC / Clang / MSVC / MinGW
 
@@ -69,6 +69,50 @@ Notepad++
 
 
 Optional: make utility (for advanced compilation)
+Optional: make utility (for advanced compilation)
+
+
+
+---
+
+## 🖥 Programming Requirements
+
+Language: C
+Standard: C89 / C99 / C11
+
+Required Header Files:
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+
+Key Concepts Used:
+
+Arrays
+
+Strings
+
+Functions
+
+Loops (for, while)
+
+Conditional Statements
+
+Random number generation (rand, srand)
+
+String comparison & copying (strcmp, strcpy)
+
+
+
+---
+
+## 📁 Data Handling Requirements
+
+No external files required
+
+All words stored in an internal array
+
 
 
 
