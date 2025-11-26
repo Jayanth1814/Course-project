@@ -30,43 +30,74 @@ The implementation of a Word Scramble game can include features such as multiple
 
 ---
 
-## Functions Used in a Word Scramble Game 
+## Functional Requirements 
 
-1. load_words()
+1. User Interface
 
-Loads all words from a file or array.
+Fully terminal-based
 
-Stores them into a list for the game.
+Displays the scrambled word clearly
 
+Accepts user guesses through keyboard input
 
-2. choose_word()
-
-Randomly picks a word from the list of words.
-
-
-3. scramble_word()
-
-Takes a word and shuffles its characters.
-
-Returns a scrambled version of the word.
+Shows feedback for correct and incorrect guesses
 
 
-4. play_game()
 
-Displays the scrambled word.
+---
 
-Accepts user's guess.
+2. Game Operations
 
-Checks if the guess is correct.
+Select Random Word: Picks a word from a predefined list
 
-Shows score or result.
+Scramble Word: Shuffles the letters using a random algorithm
+
+User Guess Input: Allows the user to enter guesses
+
+Check Answer: Compares the guess with the original word
+
+Attempt Counter: Tracks total number of attempts made
+
+Show Result: Displays success message and number of attempts
 
 
-5. main()
 
-Calls all functions.
+---
 
-Controls the overall flow of the program.
+3. Data Management
+
+All words stored in an internal word list (array)
+
+Uses rand() and srand() for random operations
+
+No external files required (lightweight and fast)
+
+Efficient handling of string operations (copy, compare, shuffle)
+
+
+
+---
+
+4. Program Flow
+
+Displays a welcome message and scrambled word
+
+Repeats user input until the correct guess is entered
+
+Shows “Wrong! Try again.” for incorrect attempts
+
+Ends the loop when the correct word is guessed
+
+Displays final message and total attempts
+
+Program terminates smoothly after completion
+
+
+
+
+
+
+
  
 
 ---
