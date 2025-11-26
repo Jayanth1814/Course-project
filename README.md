@@ -78,12 +78,14 @@ Controls the overall flow of the program.
 gcc word_scramble.c -o word_scramble
 ```
 ### 2. Run 
-
-** Windows **
 ```bash
 gcc scramble.c -o scramble.exe
 scramble.exe
 ```
+## Windows
+---bash
+word_scramble.exe
+---
 ### 3. Data Files
 
 The program automatically creates words.txt on the first run (if it does not exist).
