@@ -61,4 +61,5 @@ scramble.exe
 * Enter your guess
 *<img width="672" height="443" alt="Screenshot 2025-11-26 201838" src="https://github.com/user-attachments/assets/00c6c676-bed9-4aa1-b8e5-d3280c1501e6" />
 
-
+## Author ##
+Jayanth
