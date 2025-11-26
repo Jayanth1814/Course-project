@@ -73,19 +73,18 @@ Controls the overall flow of the program.
 
 ## 🚀 How to run the program
 
-### **Using GCC**
+### 1.Compile the program
 ```bash
-gcc scramble.c -o scramble
-./scramble
+gcc word_scramble.c -o word_scramble
 ```
-### 2 Run 
+### 2. Run 
 
 ** Windows **
 ```bash
 gcc scramble.c -o scramble.exe
 scramble.exe
 ```
-### 3 Data Files
+### 3. Data Files
 
 The program automatically creates words.txt on the first run (if it does not exist).
 
