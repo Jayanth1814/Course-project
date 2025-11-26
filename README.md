@@ -30,6 +30,49 @@ The implementation of a Word Scramble game can include features such as multiple
 
 ---
 
+## 🔧 TECHNICAL REQUIREMENTS (Word Scramble Game)
+
+
+---
+
+💻 System Requirements
+
+Windows / Linux / macOS
+
+Terminal or Command Prompt
+
+At least 4 MB RAM
+
+Minimal disk space (only for storing the .c source file)
+
+Keyboard for user input
+
+
+
+---
+
+🧰 Software Requirements
+
+C Compiler: GCC / Clang / MSVC / MinGW
+
+Code Editor / IDE:
+
+VS Code
+
+Code::Blocks
+
+Dev-C++
+
+CLion
+
+Notepad++
+
+
+Optional: make utility (for advanced compilation)
+
+
+
+
 ## Functional Requirements 
 
 ## 1. User Interface
