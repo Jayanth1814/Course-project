@@ -32,7 +32,7 @@ The implementation of a Word Scramble game can include features such as multiple
 
 ## Functional Requirements 
 
-1. User Interface
+## 1. User Interface
 
 Fully terminal-based
 
@@ -46,7 +46,7 @@ Shows feedback for correct and incorrect guesses
 
 ---
 
-2. Game Operations
+## 2. Game Operations
 
 Select Random Word: Picks a word from a predefined list
 
@@ -64,7 +64,7 @@ Show Result: Displays success message and number of attempts
 
 ---
 
-3. Data Management
+## 3. Data Management
 
 All words stored in an internal word list (array)
 
@@ -78,7 +78,7 @@ Efficient handling of string operations (copy, compare, shuffle)
 
 ---
 
-4. Program Flow
+## 4. Program Flow
 
 Displays a welcome message and scrambled word
 
@@ -91,6 +91,22 @@ Ends the loop when the correct word is guessed
 Displays final message and total attempts
 
 Program terminates smoothly after completion
+
+## 5. Error Handling & Validation
+
+Handles invalid or empty user input
+
+Prevents program crash due to unexpected characters
+
+Ensures scrambled word is never identical to the original word
+
+Validates random number generation for selecting words
+
+Displays proper error messages if input is incorrect
+
+
+
+---
 
 
 
